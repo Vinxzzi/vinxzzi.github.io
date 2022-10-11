@@ -8,7 +8,7 @@
     <li>Arquivos index/style-color: Desevolvido com uma gradiente de plano de fundo, baseada na logo do Instagram. (Esta versão foi feita por mim como um adicinal para testar outras ideias).</li>
 </ul>
 
-<h2>Habilidades Desenvolvidas:<h2>
+<h2>Habilidades Desenvolvidas:</h2>
  <ol>
     <li>HTML5 e CSS3;</li>
     <li>CSS - Desenvolvimento da compreensão e a prática de "Display-Flex";</li>
