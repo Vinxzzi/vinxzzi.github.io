@@ -5,7 +5,7 @@
 <h2>Este Projeto esta divido em duas versões:</h2>
 <ul>
     <li>Arquivos index/style-white: Desenvolvido como base o tema do Instagram;</li>
-    <li>Arquivos index/style-color: Desevolvido com uma gradiente de plano de fundo, baseada na logo do Instagram. (Esta versão foi feita por mim como um adicinal para testar outras ideias).</li>
+    <li>Arquivos index/style-color: Desenvolvido com uma gradiente de plano de fundo, baseada na logo do Instagram. (Esta versão foi feita por mim como um adicinal para testar outras ideias).</li>
 </ul>
 
 <h2>Habilidades Desenvolvidas:</h2>
