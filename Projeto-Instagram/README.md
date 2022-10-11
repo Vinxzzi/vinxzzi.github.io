@@ -1,6 +1,6 @@
-<h1>PROJETO: RECRIANDO TELA INICIAL DO INSTAGRAM.</h1>
+<h1>PROJETO: RECRIANDO A TELA INICIAL DO INSTAGRAM.</h1>
 
-<p>Hello World, este projeto foi desenvolvido no Bootcamp Santander Full-Stack Developer.</p>
+<p>Hello World, este projeto foi um desafio de projeto feito no Bootcamp Santander Full-Stack Developer.</p>
 
 <h2>Este Projeto esta divido em duas versões:</h2>
 <ul>
