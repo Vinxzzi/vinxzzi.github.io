@@ -7,6 +7,7 @@
 <p>Pacotes de Python utilizados:</p>
 <ul>
   <li>Pandas;</li>
-  <li>Pyautogui</li>
+  <li>Pyautogui;</li>
+  <li>Pyperclip.</li>
 </ul>
 
