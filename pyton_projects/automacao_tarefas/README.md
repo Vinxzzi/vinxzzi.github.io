@@ -3,8 +3,7 @@
 <br>
 <p>O objetivo deste projeto e obter uma tabela atraves de um link do Google drive disponibilizado então obter os valores de faturamento e quantidade de produtos e em seguida abrir uma aba no gmail e enviar um email com estas informações, tudo isto de forma automatizada.</p>
 <br>
-<p>IDE: Jupyter.<p>
-<p>Bibliotecas Python utilizadas:</p>
+
 <ol>
   <li>IDE: Jupyter.</li>
   <li>Bibliotecas Python utilizadas:</li>
