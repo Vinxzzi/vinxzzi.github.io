@@ -5,9 +5,14 @@
 <br>
 <p>IDE: Jupyter.<p>
 <p>Bibliotecas Python utilizadas:</p>
-<ul>
-  <li>Pandas;</li>
-  <li>Pyautogui;</li>
-  <li>Pyperclip.</li>
-</ul>
+<ol>
+  <li>IDE: Jupyter.</li>
+  <li>Bibliotecas Python utilizadas:</li>
+  <ul>
+    <li>Pandas;</li>
+    <li>Pyautogui;</li>
+    <li>Pyperclip.</li>
+  </ul>
+</ol>
+
 
